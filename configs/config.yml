@@ -1,0 +1,14 @@
+server:
+  host: localhost
+  grpcport: 1111
+  httpport: 2222
+
+database:
+  host: localhost
+  port: 3423
+  user: parsa
+  password: 1234
+  db: folan
+  connMaxLifetime: 0
+  maxIdleCons: 10
+  maxOpenCons: 10
